@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Glitch loading" width="200"/>
+  <img src="https://i.pinimg.com/originals/94/b9/c6/94b9c64e1c5d912bcfd3db9c6f988b15.gif" alt="Glitch Banner" width="600"/>
+</div>
+
   
   <h1>✦ jesus.exe ✦</h1>
   <h3><em>Random commits / Caos en sandbox</em></h3>
