@@ -4,15 +4,15 @@
 
   
  <div align="center">
-<h1><code>✦ jesus.exe ✦</code></h1>
-  <h3><em>Random commits / Caos en sandbox</em></h3>
+<h1>jesus.exe</h1>
+  <h3><em>Random commits o cosas mal hechas</em></h3>
 </div>
 
 ---
 
 <p align="center">
 Bienvenido a la otra terminal. <br>
-Aquí no hay profesionalismo, solo <strong>bytes sueltos</strong>, <em>cartas disfrazadas de código</em>  
+Aquí no hay profesionalismo, solo <strong>ideas raras</strong>, <em>cartas disfrazadas de código</em>  
 y glitches que se convirtieron en feature.  
 </p>
 
@@ -29,14 +29,6 @@ y glitches que se convirtieron en feature.
 
 ---
 
-### 🎴 Artefactos en este espacio
-- 🌑 **Neón roto**  
-- 🎲 **Repos sin QA**  
-- 🕶️ **Markdowns que parecen diarios cifrados**  
-- 💿 **GIFs como dependencias**  
-
----
-
 <div align="center">
   <a href="https://www.instagram.com/jxsuusart/">
     <img src="https://img.shields.io/badge/ESTÉTICA-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
@@ -49,5 +41,5 @@ y glitches que se convirtieron en feature.
 ---
 
 <h3 align="center">
-<em>"Si llegaste aquí, ya formas parte del experimento."</em>
+<em>"Si llegaste aquí, que pena, se supone que nadie tiene que ver esto xd."</em>
 </h3>
