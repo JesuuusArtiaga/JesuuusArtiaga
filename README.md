@@ -1,21 +1,50 @@
-# ✦ jesus.exe  
-
-> `loading experimental mode...`  
-
-Bienvenido a mi zona B.  
-Aquí no vas a encontrar proyectos serios,  
-sino commits de ideas, cartas disfrazadas de código  
-y pruebas que no pasarían QA.  
+<div align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Glitch loading" width="200"/>
+  
+  <h1>✦ jesus.exe ✦</h1>
+  <h3><em>Random commits / Caos en sandbox</em></h3>
+</div>
 
 ---
 
-## ⛓️ Fragmentos
-- 🌑 `echo "neón apagado // glitch estético"`  
-- 🎴 Cartas escondidas en repos  
-- 🧩 Experimentos con forma de markdown  
+<p align="center">
+Bienvenido a la otra terminal. <br>
+Aquí no hay profesionalismo, solo <strong>bytes sueltos</strong>, <em>cartas disfrazadas de código</em>  
+y glitches que se convirtieron en feature.  
+</p>
 
 ---
 
-## ⚡ Disclaimer
-> Este perfil corre en **sandbox mode**.  
-> Todo bug es feature.  
+<div align="center">
+
+### ⛓️ Modos de uso
+- `push cartas.md` → poesía comprimida  
+- `git commit -m "experimento estético"`  
+- `npm run caos`  
+
+</div>
+
+---
+
+### 🎴 Artefactos en este espacio
+- 🌑 **Neón roto**  
+- 🎲 **Repos sin QA**  
+- 🕶️ **Markdowns que parecen diarios cifrados**  
+- 💿 **GIFs como dependencias**  
+
+---
+
+<div align="center">
+  <a href="https://www.instagram.com/jxsuusart/">
+    <img src="https://img.shields.io/badge/ESTÉTICA-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/3mxdwh5pzza0k8xcvxfzk2jse?si=31587a51dc034afe">
+    <img src="https://img.shields.io/badge/Sonidos-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</div>
+
+---
+
+<h3 align="center">
+<em>"Si llegaste aquí, ya formas parte del experimento."</em>
+</h3>
