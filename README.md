@@ -21,9 +21,9 @@ y glitches que se convirtieron en feature.
 <div align="center">
 
 ### ⛓️ Modos de uso
-- `push cartas.md` → poesía comprimida  
-- `git commit -m "experimento estético"`  
-- `npm run caos`  
+`push cartas.md` → poesía comprimida  
+`git commit -m "experimento estético"`  
+`npm run caos`  
 
 </div>
 
