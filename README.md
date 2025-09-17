@@ -3,7 +3,8 @@
 </div>
 
   
-  <h1>✦ jesus.exe ✦</h1>
+ <div align="center">
+<h1><code>✦ jesus.exe ✦</code></h1>
   <h3><em>Random commits / Caos en sandbox</em></h3>
 </div>
 
