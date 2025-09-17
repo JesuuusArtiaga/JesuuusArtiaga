@@ -1,16 +1,21 @@
-## Hi there 👋
+# ✦ jesus.exe  
 
-<!--
-**JesuuusArtiaga/JesuuusArtiaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> `loading experimental mode...`  
 
-Here are some ideas to get you started:
+Bienvenido a mi zona B.  
+Aquí no vas a encontrar proyectos serios,  
+sino commits de ideas, cartas disfrazadas de código  
+y pruebas que no pasarían QA.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⛓️ Fragmentos
+- 🌑 `echo "neón apagado // glitch estético"`  
+- 🎴 Cartas escondidas en repos  
+- 🧩 Experimentos con forma de markdown  
+
+---
+
+## ⚡ Disclaimer
+> Este perfil corre en **sandbox mode**.  
+> Todo bug es feature.  
